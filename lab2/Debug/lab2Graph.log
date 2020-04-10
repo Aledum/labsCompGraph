@@ -1,0 +1,4 @@
+﻿  lab2Graph.cpp
+C:\Users\AlDU\source\repos\lab2Graph\lab2Graph.cpp(292,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\lab2Graph\lab2Graph.cpp(293,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab2Graph.vcxproj -> C:\Users\AlDU\source\repos\lab2Graph\Debug\lab2Graph.exe
