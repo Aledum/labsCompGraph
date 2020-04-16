@@ -1,0 +1,7 @@
+﻿  lab3.cpp
+C:\Users\AlDU\source\repos\lab3\lab3.cpp(65,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\lab3\lab3.cpp(65,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\lab3\lab3.cpp(65,15): warning C4101: x_scr: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\lab3\lab3.cpp(65,22): warning C4101: y_scr: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\lab3\lab3.cpp(64,10): warning C4101: hRgn: неиспользованная локальная переменная
+  lab3.vcxproj -> C:\Users\AlDU\source\repos\lab3\Debug\lab3.exe
