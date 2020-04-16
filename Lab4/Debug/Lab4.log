@@ -1,0 +1,19 @@
+﻿  Lab4.cpp
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(99,84): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(100,28): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(130,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(68,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(68,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(68,15): warning C4101: x_scr: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(69,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(69,15): warning C4101: h: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(68,22): warning C4101: y_scr: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\Lab4\Lab4.cpp(66,10): warning C4101: hRgn: неиспользованная локальная переменная
+  Lab4.vcxproj -> C:\Users\AlDU\source\repos\Lab4\Debug\Lab4.exe
