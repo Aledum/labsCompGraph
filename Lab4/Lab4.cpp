@@ -1,4 +1,4 @@
-﻿#include <windows.h>
+#include <windows.h>
 #include <tchar.h>
 #define _USE_MATH_DEFINES
 #include <Math.h>
@@ -89,9 +89,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message,
     {   hBrush = CreateSolidBrush(RGB(255, 0, 0)); // Создание кисти 
         arcBrush = CreateSolidBrush(RGB(255, 255, 255));
     hdc = BeginPaint(hWnd, &ps); // Установка режима 
-        for (i = 0; i <= 8; i++)
+        for (i = 0; i <= 6; i++)
     {
         // Создание изменения цвета кисти
+         
         hBrush = CreateSolidBrush(RGB(255, 255 - 255. / n * i, 255 - 255. / n * i));
         SelectObject(hdc, hBrush);
         for (j = 0; j <= 2; j++)
@@ -100,33 +101,22 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message,
             pt1[j].y = 300 + (pt[j].x * sin(alpha * i) + pt[j].y * cos(alpha * i));
         }
         Polygon(hdc, pt1, 3);
+        
         arcBrush = CreateSolidBrush(RGB(0+ 255. / n * i, 0 + 255. / n * i, 0 + 255. / n * i));
         BeginPath(hdc);
         
-        arc_x1 = 500 + (-50 * cos(alpha * i) - 50 * sin(alpha * i)) + i * 10;
-        arc_y1 = 300 + (-50 * sin(alpha * i) + 50 * cos(alpha * i));
+        arc_x1 = 500 +( -50 ) + i * 10;
+        arc_y1 = 300 + 50;
 
-        arc_x2 = 500 + (50 * cos(alpha * i) - (-50) * sin(alpha * i)) + i * 10;
-        arc_y2 = 300 + (50 * sin(alpha * i) + (-50) * cos(alpha * i));
+        arc_x2 = 500 + (50) + i * 10;
+        arc_y2 = 300 + (-50);
 
         arc_x_3_1 = 500 + ((-10) * cos(alpha * i) - 0 * sin(alpha * i)) + i * 10;
         arc_y_3_1 = 300 + ((-10) * sin(alpha * i) + 0 * cos(alpha * i));
 
         arc_x_3_2 = 500 + (10 * cos(alpha * i) - 0 * sin(alpha * i)) + i * 10;
         arc_y_3_2 = 300 + (10 * sin(alpha * i) + 0 * cos(alpha * i));
-        /*
-        arc_x1 = 500 + (((pt1[1].x - 500) - ((pt1[1].x - 500) * 0.5)) * cos(alpha * i) - ((pt1[1].y - 300) - (pt1[1].y - 300) * 1.5) * sin(alpha * i)) + i * 10;
-        arc_y1 = 300 + (((pt1[1].x - 500) - ((pt1[1].x - 500) * 0.5)) * sin(alpha * i) + ((pt1[1].y - 300) - (pt1[1].y - 300) * 1.5) * cos(alpha * i));
-
-        arc_x2 = 500 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 1.5) * cos(alpha * i) - ((pt1[1].y - 300) - (pt1[1].y - 300) * (0.5)) * sin(alpha * i)) + i * 10;
-        arc_y2 = 300 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 1.5) * sin(alpha * i) + ((pt1[1].y - 300) - (pt1[1].y - 300) * (0.5)) * cos(alpha * i));
-
-        arc_x_3_1 = 500 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 0.9) * cos(alpha * i) - 0 * sin(alpha * i)) + i * 10;
-        arc_y_3_1 = 300 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 0.9) * sin(alpha * i) + 0 * cos(alpha * i));
-
-        arc_x_3_2 = 500 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 1.1) * cos(alpha * i) - 0 * sin(alpha * i)) + i * 10;
-        arc_y_3_2 = 300 + (((pt1[1].x - 500) - (pt1[1].x - 500) * 1.1) * sin(alpha * i) + 0 * cos(alpha * i));
-        */
+     
         Arc(hdc, arc_x1, arc_y1, arc_x2, arc_y2, arc_x_3_2, arc_y_3_2, arc_x_3_1, arc_y_3_1); // намечаем полуокружность
         CloseFigure(hdc);
         EndPath(hdc);
