@@ -1,0 +1,23 @@
+﻿  lab5.cpp
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(73,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(101,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(102,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(103,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(104,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(127,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(128,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(155,40): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(166,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(167,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(168,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(169,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(173,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(174,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(175,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(188,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(189,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(202,17): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(141,17): warning C4101: xPos: неиспользованная локальная переменная
+C:\Users\AlDU\source\repos\lab5\lab5.cpp(141,23): warning C4101: yPos: неиспользованная локальная переменная
+  lab5.vcxproj -> C:\Users\AlDU\source\repos\lab5\Debug\lab5.exe

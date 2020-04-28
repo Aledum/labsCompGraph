@@ -1,0 +1,30 @@
+﻿  bezie_lab5.cpp
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(87,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(87,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(88,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(88,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(89,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(89,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(90,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(90,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(95,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(96,19): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(97,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(98,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(99,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(100,19): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(101,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(102,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(103,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(104,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(105,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(106,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(107,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(108,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(109,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(110,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(119,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(119,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(123,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AlDU\source\repos\bezie_lab5\bezie_lab5.cpp(123,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  bezie_lab5.vcxproj -> C:\Users\AlDU\source\repos\bezie_lab5\Debug\bezie_lab5.exe
